@@ -1,0 +1,24 @@
+/* For mobile-first responsiveness */
+@media (max-width: 768px) {
+  .room-item .d-flex {
+    flex-direction: column;
+  }
+  .room-item .d-flex.justify-content-between {
+    flex-direction: column;
+  }
+}
+
+/* Optional: Add custom styles for buttons */
+.btn-warning {
+  background-color: #f39d1283;
+  border-color: #f39d12dc;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border-color: #6c757d;
+}
+
+.price{
+    background-color: aqua;
+}
