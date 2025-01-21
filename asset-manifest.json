@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Booking-web/static/css/main.d630078e.css",
+    "main.js": "/Booking-web/static/js/main.78c32ce7.js",
+    "static/media/carousel-2.jpg": "/Booking-web/static/media/carousel-2.f7becdde9c17a74c6e56.jpg",
+    "static/media/carousel-1.jpg": "/Booking-web/static/media/carousel-1.ac7454a6759ca7f23bb4.jpg",
+    "static/media/video.jpg": "/Booking-web/static/media/video.5a8116233761d401c8b1.jpg",
+    "static/media/slick.svg": "/Booking-web/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Booking-web/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Booking-web/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Booking-web/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Booking-web/index.html",
+    "main.d630078e.css.map": "/Booking-web/static/css/main.d630078e.css.map",
+    "main.78c32ce7.js.map": "/Booking-web/static/js/main.78c32ce7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d630078e.css",
+    "static/js/main.78c32ce7.js"
+  ]
+}
