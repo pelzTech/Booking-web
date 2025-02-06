@@ -52,7 +52,7 @@ export default function About() {
                   <img
                     className="img-fluid rounded w-100 wow zoomIn"
                     data-wow-delay="0.1s"
-                    src="/assets/img/about-1.jpg"
+                    src={"/Booking-web/assets/img/about-3.jpg"}
                     alt="About Image 1"
                     style={{ objectFit: "cover", height: "350px", borderRadius: "10px" }}
                   />
@@ -61,7 +61,7 @@ export default function About() {
                   <img
                     className="img-fluid rounded w-100 wow zoomIn"
                     data-wow-delay="0.7s"
-                    src="/assets/img/about-4.jpg"
+                    src={"/Booking-web/assets/img/about-2.jpg"}
                     alt="About Image 4"
                     style={{ objectFit: "cover", height: "250px", borderRadius: "10px" }}
                   />

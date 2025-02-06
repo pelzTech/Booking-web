@@ -63,14 +63,14 @@ export const socialIcons = [
 
 export const carouselData = [
   {
-    img: "../assets/img/carousel-1.jpg",
+    img: "/Booking-web/assets/img/carousel-1.jpg",
     title: "Experience Unparalleled Comfort",
     subtitle: "Redefining Luxury Hospitality",
     btn1: "Explore Rooms",
     btn2: "Reserve Now",
   },
   {
-    img: "../assets/img/carousel-2.jpg",
+    img: "/Booking-web/assets/img/carousel-2.jpg",
     title: "Indulge in Ultimate Elegance",
     subtitle: "Your Gateway to Luxury Living",
     btn1: "View Suites",
@@ -135,28 +135,28 @@ export const team = [
     id: 1,
     name: "Janet Doe",
     designation: "CEO",
-    image: "/assets/img/hotel3.png",
+    image: "/Booking-web/assets/img/team-1.jpg",
     biography: "John Doe brings over 20 years of experience in the hospitality industry. Starting his career in hotel operations, he quickly advanced through various leadership roles, gaining expertise in guest services, operations management, and strategic growth. As the CEO of our company, John's visionary leadership has been instrumental in expanding our brand, elevating guest experiences, and driving innovation across all aspects of hotel management. Under his guidance, we have seen remarkable growth and success in the competitive hospitality sector."
   },
   {
     id: 2,
     name: "Jane Smith",
     designation: "MD",
-    image: "/assets/img/hotel4.png",
+    image: "/Booking-web/assets/img/team-2.jpg",
     biography: "Jane Smith is a visionary in the hospitality industry. With a background in hotel management and a keen focus on exceptional guest experiences, she leads our team in creating innovative solutions that elevate every aspect of hotel operations. Her strategic vision has played a pivotal role in shaping our approach to guest services, sustainability, and operational excellence, ensuring we remain at the forefront of the hospitality sector.",
   },
   {
     id: 3,
     name: "Mark Johnson",
     designation: "CFO",
-    image: "/assets/img/hotel5.png",
+    image: "/Booking-web/assets/img/team-3.jpg",
     biography: "Mark Johnson is a seasoned hotel management expert with a passion for enhancing guest experiences and optimizing hotel operations. He specializes in operational efficiency and is known for implementing innovative strategies that improve service delivery, streamline processes, and create memorable stays for guests. His expertise has been instrumental in driving the success of our properties, ensuring seamless operations and exceptional customer satisfaction.",
   },
   {
     id: 4,
     name: "Emily Clark",
     designation: "CMO",
-    image: "/assets/img/hotel6.png",
+    image: "/Booking-web/assets/img/team-4.jpg",
     biography:"Emily Clark is an expert in hotel operations and guest experience management. She focuses on creating seamless and memorable experiences for guests, ensuring every interaction is personalized and exceptional. With a keen eye for detail and a commitment to service excellence, Emily plays a key role in enhancing the overall atmosphere and operations of our properties, driving both guest satisfaction and brand loyalty.",
   },
 ];
@@ -297,7 +297,7 @@ export const contact = [
   {
     icon: <i class="fa fa-envelope-open text-primary me-2"></i>,
     title: "Booking",
-    email: "book@example.com",
+    email: "pelzcode66@gmail.com",
   },
   {
     icon: <i class="fa fa-envelope-open text-primary me-2"></i>,
@@ -320,7 +320,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-2.jpg",
+    img: "/Booking-web/assets/img/testimonial-2.jpg",
   },
   {
     description: 
@@ -330,7 +330,7 @@ export const testimonial = [
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-3.jpg",
+    img: "/Booking-web/assets/img/testimonial-1.jpg",
   }
   
 ];
@@ -340,7 +340,7 @@ export const blog = [
   {
     id: 1,
     title: "The Future of Hospitality: Technology in Hotel Management",
-    image: "/images/blog1.jpg",
+    image: "/Booking-web/assets/img/testimonial-1.jpg",
     description: "Discover how cutting-edge technology is revolutionizing the hospitality industry. From AI-powered booking systems to contactless check-ins, explore the trends shaping the future of hotel management.",
     author: "Jane Doe",
     date: "January 10, 2024",
@@ -388,7 +388,7 @@ export const blog = [
 
 export const roomItems = [
   {
-    img: "../assets/img/room-1.jpg",
+    img: "/Booking-web/assets/img/room-1.jpg",
     price: "$220/night",
     name: "Premium Junior Suite",
     star: [
@@ -405,7 +405,7 @@ export const roomItems = [
   },
 
   {
-    img: "../assets/img/room-2.jpg",
+    img: "/Booking-web/assets/img/room-2.jpg",
     price: "$200/night",
     name: "Deluxe Room",
     star: [
@@ -422,7 +422,7 @@ export const roomItems = [
   },
   
   {
-    img: "../assets/img/room-3.jpg",
+    img: "/Booking-web/assets/img/room-3.jpg",
     price: "$350/night",
     name: "Luxury Suite",
     star: [
@@ -439,7 +439,7 @@ export const roomItems = [
   },
   
   {
-    img: "../assets/img/room-4.jpg",
+    img: "/Booking-web/assets/img/room-4.jpg",
     price: "$500/night",
     name: "Presidential Suite",
     star: [
@@ -456,7 +456,7 @@ export const roomItems = [
   },
   
   {
-    img: "../assets/img/room-5.jpg",
+    img: "/Booking-web/assets/img/room-5.jpg",
     price: "$280/night",
     name: "Executive Suite",
     star: [
@@ -473,7 +473,7 @@ export const roomItems = [
   },
 
   {
-    img: "../assets/img/room-6.jpg",
+    img: "/Booking-web/assets/img/room-6.jpg",
     price: "$700/night",
     name: "Super Deluxe Suite",
     star: [
